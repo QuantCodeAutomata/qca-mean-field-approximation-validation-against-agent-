@@ -1,0 +1,18 @@
+EXPERIMENT 1: Mean-Field Approximation Validation
+================================================================================
+
+NO_RANKING:
+  Mean Absolute Error: 0.433333
+  Terminal MFA: y1=0.2650, y2=0.2648, y3=0.3701
+  Terminal ABM: y1=0.9872, y2=0.4250, y3=0.7878
+
+TYPE_HOMOPHILY:
+  Mean Absolute Error: 0.433333
+  Terminal MFA: y1=0.2815, y2=0.2808, y3=0.3377
+  Terminal ABM: y1=0.9872, y2=0.4280, y3=0.7848
+
+OPINION_HETEROPHILY:
+  Mean Absolute Error: 0.433333
+  Terminal MFA: y1=0.2650, y2=0.2648, y3=0.3701
+  Terminal ABM: y1=0.9910, y2=0.4312, y3=0.7778
+
